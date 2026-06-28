@@ -281,8 +281,8 @@ export default function EnquiryModal({
                     <h3 className="text-xl font-display font-bold text-slate-900">
                       Get Complete Support
                     </h3>
-                    <p className="text-xs text-slate-600 font-sans mt-1.5 leading-relaxed">
-                      Fill out the form below and our Germany education experts will contact you with personalized guidance for admissions, German language courses, visas, APS, blocked account, accommodation, and career opportunities in Germany.
+                    <p className="text-xs text-slate-600 font-sans mt-1.5 leading-relaxed font-medium">
+                      (Get expert guidance for Ausbildung, studying, working, and building a successful career in Germany)
                     </p>
                   </div>
                   <button
@@ -418,10 +418,10 @@ export default function EnquiryModal({
                     </div>
                   )}
 
-                  {/* Message / Questions */}
+                  {/* Additional Information */}
                   <div>
                     <label className="block text-xs font-semibold text-slate-700 uppercase tracking-wider mb-1.5">
-                      Message / Questions (Optional)
+                      Additional Information (Optional)
                     </label>
                     <textarea
                       name="message"

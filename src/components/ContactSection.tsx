@@ -192,9 +192,9 @@ export default function ContactSection({ onOpenEnquiry }: ContactSectionProps) {
               <div className="absolute top-2 right-2 text-white/10">
                 <Map className="w-12 h-12 stroke-[1px]" />
               </div>
-              <h4 className="text-xs font-bold text-sleek-yellow uppercase tracking-wide mb-3">Guwahati ⇄ Berlin Connection</h4>
+              <h4 className="text-xs font-bold text-sleek-yellow uppercase tracking-wide mb-3">🌍 Your Gateway to Germany</h4>
               <p className="text-xs text-slate-400 leading-relaxed mb-4">
-                Assam2Abroad acts as a direct bilateral bridge. We run operations both locally in Guwahati and directly in Germany to provide ground integration support when you land!
+                Learn German, unlock opportunities, and build a successful future in Germany with expert guidance every step of the way.
               </p>
               
               {/* Graphic line representing global link */}

@@ -15,7 +15,7 @@ export default function Footer({ onOpenEnquiry }: FooterProps) {
   const socialLinks = [
     {
       name: 'Instagram',
-      href: 'https://www.instagram.com',
+      href: 'https://www.instagram.com/assam2abroad?igsh=MW9wMWY3OWNibnM2eA==',
       icon: Instagram,
       color: 'hover:text-pink-600',
     },
@@ -27,7 +27,7 @@ export default function Footer({ onOpenEnquiry }: FooterProps) {
     },
     {
       name: 'YouTube',
-      href: 'https://www.youtube.com',
+      href: 'https://youtube.com/@assam2abroad?si=-4GGxIgQNL4frh_N',
       icon: Youtube,
       color: 'hover:text-red-600',
     },

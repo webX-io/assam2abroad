@@ -63,7 +63,7 @@ export default function Testimonials() {
             What Our Students Say
           </h2>
           <p className="text-slate-600 mt-3 text-sm md:text-base leading-relaxed">
-            Discover how Assam2Abroad guides local students to pass Goethe exams and unlock premier education and high-paying jobs in Germany.
+            Join hundreds of students learning German online from the comfort of their homes. Discover how Assam2Abroad helps learners worldwide achieve their language goals, prepare for Goethe & TELC exams, and build successful study and career pathways in Germany.
           </p>
         </div>
 

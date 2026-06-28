@@ -16,8 +16,8 @@ export default function CourseFeatures() {
       emoji: '📚',
     },
     {
-      title: 'Goethe Exam Preparation',
-      description: 'Focused mock tests, continuous evaluations, and direct Goethe/ÖSD registration assistance.',
+      title: 'Goethe & TELC Exam Preparation',
+      description: 'Comprehensive preparation with mock tests, speaking practice, regular assessments, and expert guidance for Goethe and TELC examinations.',
       icon: Target,
       color: 'text-amber-600 bg-amber-50 border-amber-150',
       emoji: '🎯',

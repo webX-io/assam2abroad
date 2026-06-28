@@ -155,26 +155,34 @@ export default function GermanClasses({ onOpenEnquiry }: GermanClassesProps) {
                 Complete A1–B2 Package
               </h3>
               <p className="text-slate-300 text-xs md:text-sm leading-relaxed max-w-xl font-normal">
-                Master German from scratch up to a confident upper-intermediate level. Designed for students aiming for rapid integration in German universities or the job market.
+                Join the complete A1–B2 German program for just ₹33,000 and save ₹6,000. One affordable package, flexible installments, and everything you need to achieve your German language goals.
               </p>
               
               {/* Features check lists */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-slate-300 font-medium">
                 <div className="flex items-center space-x-2">
                   <span className="text-[#f59e0b] font-bold">★</span>
-                  <span>All syllabus books & worksheets included</span>
+                  <span>A1 to B2 Live German Language Classes</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <span className="text-[#f59e0b] font-bold">★</span>
-                  <span>1-on-1 interview training & mock speaking</span>
+                  <span>Study Materials, Notes & Worksheets</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <span className="text-[#f59e0b] font-bold">★</span>
-                  <span>Goethe exam registration support</span>
+                  <span>Class Recordings for Revision</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <span className="text-[#f59e0b] font-bold">★</span>
-                  <span>Visa documentation pre-checks</span>
+                  <span>Speaking Practice & Mock Test</span>
+                </div>
+                <div className="flex items-center space-x-2">
+                  <span className="text-[#f59e0b] font-bold">★</span>
+                  <span>Goethe & TELC Exam Preparation</span>
+                </div>
+                <div className="flex items-center space-x-2">
+                  <span className="text-[#f59e0b] font-bold">★</span>
+                  <span>Expert Trainer Support Throughout the Course</span>
                 </div>
               </div>
             </div>

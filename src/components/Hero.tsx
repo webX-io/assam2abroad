@@ -15,7 +15,7 @@ export default function Hero({ onOpenEnquiry }: HeroProps) {
   const bullets = [
     'Affordable Fees',
     'Small Batches',
-    'Goethe Preparation',
+    'Goethe & TELC Prep',
     'Germany Career Guidance',
   ];
 
